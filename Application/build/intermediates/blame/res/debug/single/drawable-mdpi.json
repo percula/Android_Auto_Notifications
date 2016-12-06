@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_stat_notification.png",
+        "source": "/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/src/main/res/drawable-mdpi/ic_stat_notification.png"
+    },
+    {
+        "merged": "/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

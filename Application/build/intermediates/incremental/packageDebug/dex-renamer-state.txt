@@ -1,0 +1,7 @@
+#Mon Dec 05 21:07:02 EST 2016
+base.0=/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc294fcc02d94633540b40301f91bbbf04f31ef
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47eed448787cc834df9aef0b41da4a02aa8873cc/classes.dex
+base.1=/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47eed448787cc834df9aef0b41da4a02aa8873cc
+file.0=/home/peter/Google_Drive/Coding/Android_Developer_Nanodegree/Android_Auto/Basic_Notifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc294fcc02d94633540b40301f91bbbf04f31ef/classes.dex
